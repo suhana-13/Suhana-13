@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 I am Suhana Liyakath!
+____________________________________________________________________________________________________________________________________________________________________________________
+ A passionate and dedicated Computer Application technologist from Bangalore.
 
 <!--
 **suhana-13/Suhana-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
